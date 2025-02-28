@@ -1,32 +1,16 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+inst/doc
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
 *.so
-*.dylib
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+TODO
+.DS_Store
+*.pdf
+*.html
+*.rnw
+docs/
+vignettes/*.html
+vignettes/*.R
